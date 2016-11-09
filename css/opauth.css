@@ -1,0 +1,132 @@
+form#loginform p.galogin {
+    vertical-align: middle;
+    padding-bottom: 15px;
+    padding-right: 25px;
+}
+
+a.redes.btn {
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.Button {
+  outline: none;
+  position: relative;
+}
+
+em {
+  left: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  padding-top: 5px !important;
+}
+
+.Button em {
+    width: 47px;
+    height: 32px;
+    background-color: #5a78b9;
+    background-color: rgba(255,255,255,0.08);
+}
+
+.btn-insta {
+    color: #fff;
+    background-color: #2c9bd5;
+    border-color: #46b8da;
+    border-color: #2c9bd5;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+form#loginform p.galogin a {
+    color: #FFFFFF;
+    line-height: 27px;
+    font-weight: bold;
+}
+a.redes.btn {
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+.btn:hover, .btn:focus, .btn.focus {
+    color: #333;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: #23527c;
+    text-decoration: underline;
+}
+a:active, a:hover {
+    outline: 0;
+}
+a:active, a:hover {
+    color: #00a0d2;
+}
+.Button {
+    outline: none;
+    position: relative;
+}
+.btn-insta {
+    color: #fff;
+    background-color: #2c9bd5;
+    border-color: #46b8da;
+    border-color: #2c9bd5;
+}
+.btn-info, .btn-insta {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+a {
+    color: #0073aa;
+    -webkit-transition-property: border,background,color;
+    transition-property: border,background,color;
+    -webkit-transition-duration: .05s;
+    transition-duration: .05s;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+    outline: 0;
+}
+
+#login {
+    padding: 2% 0 0;
+}
